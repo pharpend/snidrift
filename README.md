@@ -3,7 +3,7 @@
 This is an attempt at a dependently-typed model for the "mechanism" for
 [Snowdrift][1]. It is written in [Idris][2] and licensed under the
 [GNU Affero General Public License][3] (AGPL). You can read a copy of
-the AGPL in <LICENSE>.
+the AGPL in the [LICENSE][8].
 
 **What is Snowdrift?**
 
@@ -37,3 +37,4 @@ The mechanism is the library in Snowdrift that implements the
 [5]: https://snowdrift.coop/how-it-works
 [6]: https://en.wikipedia.org/wiki/Accounting_information_system
 [7]: https://snowdrift.coop/p/snowdrift/contact
+[8]: LICENSE
