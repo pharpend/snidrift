@@ -1,0 +1,10 @@
+package snidrift
+
+sourcedir = src
+executable = snidrift
+main = main
+opts = -p contrib
+modules =
+    Main
+  , Snowdrift.Mechanism.Idx
+  , Snowdrift.Mechanism.Types
